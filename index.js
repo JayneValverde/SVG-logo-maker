@@ -1,11 +1,11 @@
-// Import classes from './lib/shapes'
-const { Shape, Triangle, Circle, Square } = require('./lib/shapes');
-
 // Inquirer import
 const inquirer = require('inquirer');
 
 // File system module import
 const fs = require('fs');
+
+// Import classes from './lib/shapes'
+const {Triangle, Circle, Square} = require('./lib/shapes');
 
 // Array of questions for user logo input 
 const questions = [
@@ -59,7 +59,7 @@ function init() {
             } else {
                 svgShape = new Square(shapeColor, text, textColor);
             }
-            writeToFile.apply("logo.svg", svgShape.renderSVG())
+            writeToFile("logo.svg", svgShape.renderSVG())
         })
 };
 
