@@ -23,8 +23,8 @@ const questions = [
     {
         type: 'input',
         name: 'text',
-        message: 'Enter up to thee characters for the logo:',
-        validate: (input) => input.length < 3,
+        message: 'Enter up to three characters for the logo:',
+        validate: (input) => input.length === 3,
     },
     {
         type: 'input',
