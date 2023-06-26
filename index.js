@@ -54,7 +54,7 @@ function init() {
         .then(({shape, shapeColor, text, textColor}) => {
             if (shape === 'Triangle') {
                 svgShape = new Triangle(shapeColor, text, textColor);
-            } else if (shape === 'Cirlce') {
+            } else if (shape === 'Circle') {
                 svgShape = new Circle(shapeColor, text, textColor);
             } else {
                 svgShape = new Square(shapeColor, text, textColor);
