@@ -20,6 +20,12 @@ object oriented programming
 
 * **[Youtube: Prototypes in JavaScript](https://www.youtube.com/watch?v=riDVvXZ_Kb4&t=18s)**
 
-* **[The New Code](https://thenewcode.com/1037/SVG-Shape-Elements-Polygons#:~:text=The%20Simplest%20SVG%20Polygon%3A%20A%20Triangle&text=the%20points%20that%20make%20up,any%20direction%20around%20the%20shape.)** : SVG Shape Elements
+* **[Mozilla](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes)** : Basic Shapes 
 
 * **[Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)** : Constructor class 
+
+* **[Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)** : Super; expressions 
+
+* **[SVG Exstention for VS Code](https://marketplace.visualstudio.com/items?itemName=jock.svg)**
+
+
