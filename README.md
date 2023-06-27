@@ -15,6 +15,7 @@ This application will take a users input, generate a logo and save it as an SVG 
 * [Test Instructions](#test-instructions)
 * [Screenshots](#screenshots)
 * [Resources](#resources)
+* [Questions](#questions)
 
 ## User Story:
 ```
@@ -93,4 +94,6 @@ Once all the necessary programs and Node.js packages have been installed, follow
 
 * **[SVG Exstention for VS Code](https://marketplace.visualstudio.com/items?itemName=jock.svg)**
 
-
+## Questions: 
+Follow me on Github at [JayneValverde](https://github.com/JayneValverde) or feel free to contact me at Jaynevalverde@gmail.com. <br>
+Thank you!
