@@ -74,9 +74,9 @@ Once all the necessary programs and Node.js packages have been installed, follow
 
 ## Screenshots:
 <br>
- <img src="./images/exampleCircle.png" width="160">
-<img src="./images/exampleSquare.png" width="160"> 
-<img src="./images/exampleTrianlge.png" width="185"> 
+ <img src="./images/Circle.svg" width="250">
+<img src="./images/Square.svg" width="250"> 
+<img src="./images/Triangle.svg" width="250"> 
 <br>
 
 ## Resources: 
