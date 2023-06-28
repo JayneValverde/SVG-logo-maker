@@ -5,7 +5,7 @@
 ***Object Oriented Programming*** <br>
 This application will take a users input, generate a logo and save it as an SVG file. The application prompts the user to select a color, shape and to provide text for the logo. Once done, a generated SVG file can be saved. 
 
-### **_[LINK TO WALKTHROUGH VIDEO](https://youtu.be/YrFg9fPl6eM)_**
+### **_[LINK TO WALKTHROUGH VIDEO](https://youtu.be/1W-08AskIO4)_**
 
 ## Table of Contents
 * [User Story](#user-story)
